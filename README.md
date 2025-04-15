@@ -1,13 +1,15 @@
 # project
-
 A new Flutter project.
+![Logo](image.png)
+
+# image
+![Hasil](https://file%2B.vscode-resource.vscode-cdn.net/Users/okta/Documents/Belajar%20Flutter/project/assets/images/Hasil_Project.png?version%3D1744743950804)
 
 ## Getting Started
-
 This project is a starting point for a Flutter application.
+A few resources to get you started if this is your first
 
-A few resources to get you started if this is your first Flutter project:
-
+Flutter project:
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 

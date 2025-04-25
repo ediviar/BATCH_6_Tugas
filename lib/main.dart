@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-// import 'package:project/day_3/home_page.dart';
+// import 'package:project/day-3/pages/home_page.dart';
 import 'package:project/tugas-m1/login_page.dart';
 
 void main() {

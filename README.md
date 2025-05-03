@@ -7,7 +7,8 @@ Project Flutter ke-1
 - Tugas minggu pertama
 
 ## Gambar Hasil
-![alt text](https://github.com/ediviar/BATCH_6_Tugas/blob/main/assets/images/Hasil_Project.png?raw=false)
+![alt text](https://github.com/ediviar/BATCH_6_Tugas-M1/blob/main/assets/images/Hasil_Project.jpg?raw=false)
+
 Gambar halaman login
 
 
